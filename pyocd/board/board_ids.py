@@ -239,4 +239,5 @@ BOARD_ID_TO_INFO = {
     "9901": BoardInfo(  "micro:bit",            "nrf51",            "l1_microbit.bin",      ),
     "C004": BoardInfo(  "tinyK20",              "k20d50m",          "l1_k20d50m.bin",       ),
     "C006": BoardInfo(  "VBLUno51",             "nrf51",            "l1_nrf51.bin",         ),
+    "D000": BoardInfo(  "PIC32CXMTG-EK",        "pic32cxmtg",       "leds_pic32cxmtg.bin",  ),
 }
